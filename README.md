@@ -98,3 +98,5 @@ Auto-generated PR content
 Auto-generated PR content
 
 Automated README update by Pull Shark bot 🦈
+
+Tiny change for Bronze badge
