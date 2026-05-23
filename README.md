@@ -54,3 +54,5 @@ Auto-generated PR content
 Auto-generated PR content
 
 Bot contribution for Pull Shark
+
+Automated README update by Pull Shark bot 🦈
